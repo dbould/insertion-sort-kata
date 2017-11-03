@@ -1,3 +1,8 @@
+/.idea
 /vendor/
 /logs/*
 !/logs/README.md
+.idea/
+access.log
+composer.lock
+error.log
